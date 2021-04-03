@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demfbn'),
+      home: MyHomePage(title: 'Flutter Demio biua'),
     );
   }
 }
